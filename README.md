@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend development<br>🎯 Goals: Become a Senior fullstack developer<br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
+<p align="left">📚 I'm currently learning Backend development<br>🎯 Goals: Become a Senior Fullstack Developer<br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
 
 ###
 
