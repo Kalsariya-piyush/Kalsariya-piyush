@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Piyush and I'm a Frontend Web developer, from Surat,gujrat</p>
+<p align="left">I am Piyush and I'm a Frontend Web developer, from Surat,gujrat</p>
 
 ###
 
