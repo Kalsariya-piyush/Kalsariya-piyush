@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend development<br>🎯 Goals: Learn Graphql.<br>📫 How to reach me kalsariyapiyush95@gmail.com | <a href="https://www.linkedin.com/in/piyush-kalsariya-104a79219/" rel="nofollow">LinkedIn</a><br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
+<p align="left">📚 I'm currently learning Backend development<br>🎯 Goals: Learn Graphql.<br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
 
 ###
 
