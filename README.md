@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Piyush and I'm a Frontend Web developer.</p>
+<p align="left">I am Piyush and I'm a Frontend Web developer, from Surat,gujrat</p>
 
 ###
 
@@ -75,10 +75,10 @@
 
 ###
 
-<h2 align="left">Github Stats</h2>
+<!-- <h2 align="left">Github Stats</h2> -->
 
 ###
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kalsariya-piyush&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kalsariya-piyush&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>
