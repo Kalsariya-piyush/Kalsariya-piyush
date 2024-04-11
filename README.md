@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Backend development<br>🎯 Goals: Learn Graphql.<br>❓ Ask me about anything related to MERN stack and related technologies<br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
+<p align="left">📚 I'm currently A Frontend Web Developer at Pixeldart.<br>🎯 Currently Learning: Learning docker.<br>❓ Ask me about anything related to MERN stack and related technologies<br>🎲 Fun fact: Tea + Code: A perfect blend for productivity and enjoyment.</p>
 
 ###
 
