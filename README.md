@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Piyush and I'm a Frontend Web developer, from Surat,gujrat</p>
+<p align="left">This is Piyush a high skilled front end Web developer</p>
 
 ###
 
